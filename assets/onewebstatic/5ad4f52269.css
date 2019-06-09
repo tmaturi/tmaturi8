@@ -1,0 +1,28 @@
+@media (max-width: 650px) {
+  .mobileV [class^=BackgroundPreview_backgroundComponent] {
+    background-size: cover !important;
+  }
+}
+
+@media (max-width: 650px) {
+  .mobileV [class^=BackgroundPreview_backgroundComponent] {
+    background-size: cover !important;
+  }
+}
+
+@media (max-width: 650px) {
+  body {
+    min-width: 'initial'
+  }
+}
+
+@media (min-width: 651px) {
+  body {
+    min-width: 982px
+  }
+}
+
+.bodyBackground {
+  background-image: none;
+  background-color: rgba(255, 255, 255, 1);
+}

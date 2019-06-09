@@ -1,0 +1,1068 @@
+.textnormal {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-style: normal;
+  font-size: 12px;
+  font-weight: normal;
+  text-decoration: none;
+  color: rgba(0, 0, 0, 1);
+  letter-spacing: normal;
+}
+
+.textnormal-ddo {
+  font-size: 12px !important;
+}
+
+.textheading1 {
+  font-family: Impact, Charcoal, sans-serif;
+  font-style: normal;
+  font-size: 37px;
+  font-weight: normal;
+  text-decoration: none;
+  color: rgba(55, 139, 14, 1);
+  letter-spacing: normal;
+}
+
+.textheading1-ddo {
+  font-size: 20px !important;
+}
+
+.textheading2 {
+  font-family: Helvetica, sans-serif;
+  font-style: normal;
+  font-size: 24px;
+  font-weight: normal;
+  text-decoration: none;
+  color: rgba(75, 139, 40, 1);
+  letter-spacing: normal;
+}
+
+.textheading2-ddo {
+  font-size: 20px !important;
+}
+
+.textheading3 {
+  font-family: Helvetica, sans-serif;
+  font-style: normal;
+  font-size: 17px;
+  font-weight: normal;
+  text-decoration: none;
+  color: rgba(75, 139, 40, 1);
+  letter-spacing: normal;
+}
+
+.textheading3-ddo {
+  font-size: 17px !important;
+}
+
+.link1 {
+  color: rgba(54, 47, 45, 1);
+  text-decoration: none;
+}
+
+.link1-hover {
+  color: rgba(75, 139, 40, 1);
+  text-decoration: underline;
+}
+
+.link1:hover {
+  color: rgba(75, 139, 40, 1);
+  text-decoration: underline;
+}
+
+ul.menu1, .menu1 ul {
+  padding: 0px 0px 0px 0px;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+}
+
+ul.menu1 div.divider {
+  padding: 0px 0px 0px 0px;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+}
+
+ul.menu1>li>a {
+  padding: 0px 15px 1px 15px;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  background-image: none;
+  background-color: rgba(255, 255, 255, 1);
+  color: rgba(1, 1, 1, 1);
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-family: Helvetica, sans-serif;
+  text-transform: uppercase;
+  text-align: left;
+}
+
+ul.menu1>li>a:hover {
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  background-image: none;
+  background-color: rgba(255, 255, 255, 1);
+  color: rgba(25, 129, 172, 1);
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-family: Helvetica, sans-serif;
+  text-transform: uppercase;
+  text-align: left;
+}
+
+ul.menu1>li>a.expandable {
+  padding: 0px 15px 1px 15px;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  background-image: none;
+  background-color: rgba(255, 255, 255, 1);
+  color: rgba(1, 1, 1, 1);
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-family: Helvetica, sans-serif;
+  text-transform: uppercase;
+  text-align: left;
+}
+
+ul.menu1>li>a.expandable:hover {
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  background-image: none;
+  background-color: rgba(255, 255, 255, 1);
+  color: rgba(25, 129, 172, 1);
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-family: Helvetica, sans-serif;
+  text-transform: uppercase;
+  text-align: left;
+}
+
+ul.menu1>li>a.expanded {
+  padding: 0px 15px 1px 15px;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  background-image: none;
+  background-color: rgba(255, 255, 255, 1);
+  color: rgba(25, 129, 172, 1);
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-family: Helvetica, sans-serif;
+  text-transform: uppercase;
+  text-align: left;
+}
+
+ul.menu1>li>a.expanded:hover {
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  background-image: none;
+  background-color: rgba(255, 255, 255, 1);
+  color: rgba(25, 129, 172, 1);
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-family: Helvetica, sans-serif;
+  text-transform: uppercase;
+  text-align: left;
+}
+
+ul.menu1>li>a.selected {
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  background-image: none;
+  background-color: rgba(255, 255, 255, 1);
+  color: rgba(25, 129, 172, 1);
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-family: Helvetica, sans-serif;
+  text-transform: uppercase;
+  text-align: left;
+}
+
+ul.menu1>li>a.selected:hover {
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  background-image: none;
+  background-color: rgba(255, 255, 255, 1);
+  color: rgba(25, 129, 172, 1);
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-family: Helvetica, sans-serif;
+  text-transform: uppercase;
+  text-align: left;
+}
+
+.dropdown ul.menu1>li>a.expanded {
+  padding: 0px 15px 1px 15px;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  background-image: none;
+  background-color: rgba(255, 255, 255, 1);
+  color: rgba(25, 129, 172, 1);
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-family: Helvetica, sans-serif;
+  text-transform: uppercase;
+  text-align: left;
+}
+
+ul.menu1>li>a.selected.expandable {
+  background-image: none, none;
+  background-repeat: repeat, repeat;
+  background-position: 0% 0%, 0% 0%;
+  background-size: auto, auto;
+  background-attachment: scroll, scroll;
+}
+
+ul.menu1>li>a.selected.expanded {
+  background-image: none, none;
+  background-repeat: repeat, repeat;
+  background-position: 0% 0%, 0% 0%;
+  background-size: auto, auto;
+  background-attachment: scroll, scroll;
+}
+
+.menu1 {
+  padding: 0px 0px 0px 0px;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+}
+
+.menuhorizontal.horizontalalignfit ul.menu1 li:not(:last-child) a {
+  width: calc(100% - 0px);
+  margin-right: 0px;
+}
+
+.dropdown ul.menu1>li ul {
+  width: 200px;
+}
+
+.tree ul.menu1 .level-1 span {
+  padding-left: 40px;
+}
+
+.tree ul.menu1 .level-2 span {
+  padding-left: 80px;
+}
+
+.tree ul.menu1 .level-3 span {
+  padding-left: 120px;
+}
+
+.tree ul.menu1 .level-4 span {
+  padding-left: 160px;
+}
+
+.tree ul.menu1 .level-5 span {
+  padding-left: 200px;
+}
+
+.tree ul.menu1 .level-6 span {
+  padding-left: 240px;
+}
+
+.tree ul.menu1 .level-7 span {
+  padding-left: 280px;
+}
+
+.tree ul.menu1 .level-8 span {
+  padding-left: 320px;
+}
+
+.tree ul.menu1 .level-9 span {
+  padding-left: 360px;
+}
+
+.tree ul.menu1 .level-10 span {
+  padding-left: 400px;
+}
+
+.GlobalstylesDialog_hackAnchor__1iTBW ul.menu1>li:last-child>a {
+  padding: 0px 15px 1px 15px;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  background-image: none;
+  background-color: rgba(255, 255, 255, 1);
+  color: rgba(25, 129, 172, 1);
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-family: Helvetica, sans-serif;
+  text-transform: uppercase;
+  text-align: left;
+}
+
+.GlobalstylesDialog_hackAnchor__1iTBW ul.menu1>li:nth-last-child(2)>a {
+  padding: 0px 15px 1px 15px;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  background-image: none;
+  background-color: rgba(255, 255, 255, 1);
+  color: rgba(25, 129, 172, 1);
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-family: Helvetica, sans-serif;
+  text-transform: uppercase;
+  text-align: left;
+}
+
+ul.menu1 li a {
+  line-height: 22px;
+}
+
+ul.menu2, .menu2 ul {
+  padding: 0px 0px 0px 0px;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  background-image: none;
+  background-color: rgba(25, 129, 172, 1);
+}
+
+ul.menu2 div.divider {
+  padding: 0px 0px 0px 1px;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  background-image: url(//tahanimaturi.com/onewebstatic/bf988e8e06.png);
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: auto;
+  background-attachment: scroll;
+}
+
+ul.menu2>li>a {
+  padding: 9px 20px 10px 20px;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  background-image: none;
+  background-color: rgba(25, 129, 172, 1);
+  color: rgba(255, 255, 255, 1);
+  font-size: 13px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  text-align: left;
+}
+
+ul.menu2>li>a:hover {
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  background-image: none;
+  background-color: rgba(20, 103, 138, 1);
+  color: rgba(255, 255, 255, 1);
+  font-size: 13px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  text-align: left;
+}
+
+ul.menu2>li>a.expandable {
+  padding: 9px 20px 10px 20px;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  background-image: none;
+  background-color: rgba(25, 129, 172, 1);
+  color: rgba(255, 255, 255, 1);
+  font-size: 13px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  text-align: left;
+}
+
+ul.menu2>li>a.expandable:hover {
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  background-image: none;
+  background-color: rgba(20, 103, 138, 1);
+  color: rgba(255, 255, 255, 1);
+  font-size: 13px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  text-align: left;
+}
+
+ul.menu2>li>a.expanded {
+  padding: 9px 20px 10px 20px;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  background-image: none;
+  background-color: rgba(20, 103, 138, 1);
+  color: rgba(255, 255, 255, 1);
+  font-size: 13px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  text-align: left;
+}
+
+ul.menu2>li>a.expanded:hover {
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  background-image: none;
+  background-color: rgba(20, 103, 138, 1);
+  color: rgba(255, 255, 255, 1);
+  font-size: 13px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  text-align: left;
+}
+
+ul.menu2>li>a.selected {
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  background-image: none;
+  background-color: rgba(20, 103, 138, 1);
+  color: rgba(255, 255, 255, 1);
+  font-size: 13px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  text-align: left;
+}
+
+ul.menu2>li>a.selected:hover {
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  background-image: none;
+  background-color: rgba(20, 103, 138, 1);
+  color: rgba(255, 255, 255, 1);
+  font-size: 13px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  text-align: left;
+}
+
+.dropdown ul.menu2>li>a.expanded {
+  padding: 9px 20px 10px 20px;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  background-image: none;
+  background-color: rgba(20, 103, 138, 1);
+  color: rgba(255, 255, 255, 1);
+  font-size: 13px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  text-align: left;
+}
+
+ul.menu2>li>a.selected.expandable {
+  background-image: none, none;
+  background-repeat: repeat, repeat;
+  background-position: 0% 0%, 0% 0%;
+  background-size: auto, auto;
+  background-attachment: scroll, scroll;
+}
+
+ul.menu2>li>a.selected.expanded {
+  background-image: none, none;
+  background-repeat: repeat, repeat;
+  background-position: 0% 0%, 0% 0%;
+  background-size: auto, auto;
+  background-attachment: scroll, scroll;
+}
+
+.menu2 {
+  padding: 0px 0px 0px 0px;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  background-image: none;
+  background-color: rgba(25, 129, 172, 1);
+}
+
+.menuhorizontal.horizontalalignfit ul.menu2 li:not(:last-child) a {
+  width: calc(100% - 1px);
+  margin-right: 1px;
+}
+
+.dropdown ul.menu2>li ul {
+  width: 200px;
+}
+
+.tree ul.menu2 .level-1 span {
+  padding-left: 40px;
+}
+
+.tree ul.menu2 .level-2 span {
+  padding-left: 80px;
+}
+
+.tree ul.menu2 .level-3 span {
+  padding-left: 120px;
+}
+
+.tree ul.menu2 .level-4 span {
+  padding-left: 160px;
+}
+
+.tree ul.menu2 .level-5 span {
+  padding-left: 200px;
+}
+
+.tree ul.menu2 .level-6 span {
+  padding-left: 240px;
+}
+
+.tree ul.menu2 .level-7 span {
+  padding-left: 280px;
+}
+
+.tree ul.menu2 .level-8 span {
+  padding-left: 320px;
+}
+
+.tree ul.menu2 .level-9 span {
+  padding-left: 360px;
+}
+
+.tree ul.menu2 .level-10 span {
+  padding-left: 400px;
+}
+
+.GlobalstylesDialog_hackAnchor__1iTBW ul.menu2>li:last-child>a {
+  padding: 9px 20px 10px 20px;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  background-image: none;
+  background-color: rgba(20, 103, 138, 1);
+  color: rgba(255, 255, 255, 1);
+  font-size: 13px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  text-align: left;
+}
+
+.GlobalstylesDialog_hackAnchor__1iTBW ul.menu2>li:nth-last-child(2)>a {
+  padding: 9px 20px 10px 20px;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  background-image: none;
+  background-color: rgba(20, 103, 138, 1);
+  color: rgba(255, 255, 255, 1);
+  font-size: 13px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  text-align: left;
+}
+
+ul.menu2 li a {
+  line-height: 16px;
+}
+
+.cellnormal {
+  padding: 3px 3px 3px 3px;
+  border-color: rgba(114, 122, 150, 1);
+  border-style: solid;
+  border-width: 1px 1px 1px 1px;
+  background-image: none;
+  background-color: rgba(52, 173, 120, 1);
+  vertical-align: middle;
+  background-clip: padding-box;
+  text-align: left;
+}
+
+.cellnormal .textnormal {
+  color: rgba(255, 255, 255, 1);
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.cellnormal .textnormal, .cellnormal .textheading1, .cellnormal .textheading2, .cellnormal .textheading3 {}
+
+.cellnormal.cellnormal-ddo {
+  color: rgba(255, 255, 255, 1);
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0px;
+  padding: 3px 3px 3px 3px;
+}
+
+.cellheading1 {
+  padding: 3px 3px 3px 3px;
+  border-color: rgba(114, 122, 150, 1);
+  border-style: solid;
+  border-width: 1px 1px 1px 1px;
+  background-image: none;
+  background-color: rgba(44, 135, 70, 1);
+  vertical-align: middle;
+  background-clip: padding-box;
+  text-align: left;
+}
+
+.cellheading1 .textnormal {
+  color: rgba(255, 255, 255, 1);
+  font-size: 14px;
+  font-weight: bold;
+  font-style: normal;
+  text-decoration: none;
+  font-family: Helvetica, sans-serif;
+}
+
+.cellheading1 .textnormal, .cellheading1 .textheading1, .cellheading1 .textheading2, .cellheading1 .textheading3 {}
+
+.cellheading1.cellheading1-ddo {
+  color: rgba(255, 255, 255, 1);
+  font-size: 14px;
+  font-weight: bold;
+  font-style: normal;
+  text-decoration: none;
+  font-family: Helvetica, sans-serif;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0px;
+  padding: 3px 3px 3px 3px;
+}
+
+.cellheading2 {
+  padding: 3px 3px 3px 3px;
+  border-color: rgba(114, 122, 150, 1);
+  border-style: solid;
+  border-width: 1px 1px 1px 1px;
+  background-image: none;
+  background-color: rgba(51, 155, 80, 1);
+  vertical-align: middle;
+  background-clip: padding-box;
+  text-align: left;
+}
+
+.cellheading2 .textnormal {
+  color: rgba(255, 255, 255, 1);
+  font-size: 13px;
+  font-weight: bold;
+  font-style: normal;
+  text-decoration: none;
+  font-family: Helvetica, sans-serif;
+}
+
+.cellheading2 .textnormal, .cellheading2 .textheading1, .cellheading2 .textheading2, .cellheading2 .textheading3 {}
+
+.cellheading2.cellheading2-ddo {
+  color: rgba(255, 255, 255, 1);
+  font-size: 13px;
+  font-weight: bold;
+  font-style: normal;
+  text-decoration: none;
+  font-family: Helvetica, sans-serif;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0px;
+  padding: 3px 3px 3px 3px;
+}
+
+.cellalternate {
+  padding: 3px 3px 3px 3px;
+  border-color: rgba(114, 122, 150, 1);
+  border-style: solid;
+  border-width: 1px 1px 1px 1px;
+  background-image: none;
+  background-color: rgba(52, 160, 128, 1);
+  vertical-align: middle;
+  background-clip: padding-box;
+  text-align: left;
+}
+
+.cellalternate .textnormal {
+  color: rgba(255, 255, 255, 1);
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.cellalternate .textnormal, .cellalternate .textheading1, .cellalternate .textheading2, .cellalternate .textheading3 {}
+
+.cellalternate.cellalternate-ddo {
+  color: rgba(255, 255, 255, 1);
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0px;
+  padding: 3px 3px 3px 3px;
+}
+
+ul.menu3, .menu3 ul {
+  padding: 0px 0px 0px 0px;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px 0px 1px 0px;
+}
+
+ul.menu3 div.divider {
+  padding: 0px 0px 0px 0px;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 0px 0px 1px 0px;
+}
+
+ul.menu3>li>a {
+  padding: 9px 20px 10px 20px;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  background-image: none;
+  background-color: rgba(20, 103, 138, 1);
+  color: rgba(255, 255, 255, 1);
+  font-size: 13px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  text-align: left;
+}
+
+ul.menu3>li>a:hover {
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  background-image: none;
+  background-color: rgba(25, 129, 172, 1);
+  color: rgba(255, 255, 255, 1);
+  font-size: 13px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  text-align: left;
+}
+
+ul.menu3>li>a.expandable {
+  padding: 9px 33px 10px 20px;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  background-image: url(//tahanimaturi.com/onewebstatic/1c76c717eb.png);
+  background-repeat: no-repeat;
+  background-position: 100% 50%;
+  background-size: auto;
+  background-color: rgba(20, 103, 138, 1);
+  background-attachment: scroll;
+  color: rgba(255, 255, 255, 1);
+  font-size: 13px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  text-align: left;
+}
+
+ul.menu3>li>a.expandable:hover {
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  background-image: none;
+  background-color: rgba(25, 129, 172, 1);
+  color: rgba(255, 255, 255, 1);
+  font-size: 13px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  text-align: left;
+}
+
+ul.menu3>li>a.expanded {
+  padding: 9px 33px 10px 20px;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  background-image: url(//tahanimaturi.com/onewebstatic/1c76c717eb.png);
+  background-repeat: no-repeat;
+  background-position: 100% 50%;
+  background-size: auto;
+  background-color: rgba(25, 129, 172, 1);
+  background-attachment: scroll;
+  color: rgba(255, 255, 255, 1);
+  font-size: 13px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  text-align: left;
+}
+
+ul.menu3>li>a.expanded:hover {
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  background-image: none;
+  background-color: rgba(25, 129, 172, 1);
+  color: rgba(255, 255, 255, 1);
+  font-size: 13px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  text-align: left;
+}
+
+ul.menu3>li>a.selected {
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  background-image: none;
+  background-color: rgba(25, 129, 172, 1);
+  color: rgba(255, 255, 255, 1);
+  font-size: 13px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  text-align: left;
+}
+
+ul.menu3>li>a.selected:hover {
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  background-image: none;
+  background-color: rgba(25, 129, 172, 1);
+  color: rgba(255, 255, 255, 1);
+  font-size: 13px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  text-align: left;
+}
+
+.dropdown ul.menu3>li>a.expanded {
+  padding: 9px 33px 10px 20px;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  background-image: url(//tahanimaturi.com/onewebstatic/1c76c717eb.png);
+  background-repeat: no-repeat;
+  background-position: 100% 50%;
+  background-size: auto;
+  background-color: rgba(25, 129, 172, 1);
+  background-attachment: scroll;
+  color: rgba(255, 255, 255, 1);
+  font-size: 13px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  text-align: left;
+}
+
+ul.menu3>li>a.selected.expandable {
+  background-image: none, url(//tahanimaturi.com/onewebstatic/1c76c717eb.png);
+  background-repeat: repeat, no-repeat;
+  background-position: 0% 0%, 100% 50%;
+  background-size: auto, auto;
+  background-attachment: scroll, scroll;
+}
+
+ul.menu3>li>a.selected.expanded {
+  background-image: none, url(//tahanimaturi.com/onewebstatic/1c76c717eb.png);
+  background-repeat: repeat, no-repeat;
+  background-position: 0% 0%, 100% 50%;
+  background-size: auto, auto;
+  background-attachment: scroll, scroll;
+}
+
+.menu3 {
+  padding: 0px 0px 0px 0px;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px 0px 1px 0px;
+}
+
+.menuhorizontal.horizontalalignfit ul.menu3 li:not(:last-child) a {
+  width: calc(100% - 0px);
+  margin-right: 0px;
+}
+
+.dropdown ul.menu3>li ul {
+  width: 200px;
+}
+
+.tree ul.menu3 .level-1 span {
+  padding-left: 40px;
+}
+
+.tree ul.menu3 .level-2 span {
+  padding-left: 80px;
+}
+
+.tree ul.menu3 .level-3 span {
+  padding-left: 120px;
+}
+
+.tree ul.menu3 .level-4 span {
+  padding-left: 160px;
+}
+
+.tree ul.menu3 .level-5 span {
+  padding-left: 200px;
+}
+
+.tree ul.menu3 .level-6 span {
+  padding-left: 240px;
+}
+
+.tree ul.menu3 .level-7 span {
+  padding-left: 280px;
+}
+
+.tree ul.menu3 .level-8 span {
+  padding-left: 320px;
+}
+
+.tree ul.menu3 .level-9 span {
+  padding-left: 360px;
+}
+
+.tree ul.menu3 .level-10 span {
+  padding-left: 400px;
+}
+
+.GlobalstylesDialog_hackAnchor__1iTBW ul.menu3>li:last-child>a {
+  padding: 9px 20px 10px 20px;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  background-image: none;
+  background-color: rgba(25, 129, 172, 1);
+  color: rgba(255, 255, 255, 1);
+  font-size: 13px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  text-align: left;
+}
+
+.GlobalstylesDialog_hackAnchor__1iTBW ul.menu3>li:nth-last-child(2)>a {
+  padding: 9px 33px 10px 20px;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  background-image: url(//tahanimaturi.com/onewebstatic/1c76c717eb.png);
+  background-repeat: no-repeat;
+  background-position: 100% 50%;
+  background-size: auto;
+  background-color: rgba(25, 129, 172, 1);
+  background-attachment: scroll;
+  color: rgba(255, 255, 255, 1);
+  font-size: 13px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  text-align: left;
+}
+
+ul.menu3 li a {
+  line-height: 16px;
+}
+
+.button1 {
+  padding: 5px 10px 5px 10px;
+  border-width: 0px 0px 0px 0px;
+  color: rgba(0, 0, 0, 1);
+  font-size: 12px;
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+}
+
+.button1:hover {
+  border-width: 0px 0px 0px 0px;
+  text-align: center;
+}
+
+.button1:active {
+  text-align: center;
+}
+
+.button1.disabled {
+  text-align: center;
+}
+
+.button1.button1-ddo {
+  color: rgba(0, 0, 0, 1);
+  font-size: 12px;
+  font-family: Helvetica, sans-serif;
+  border-width: 0px 0px 0px 0px;
+  text-align: center;
+}
+
+.button1.button1-ddo:hover {
+  border-width: 0px 0px 0px 0px;
+  text-align: center;
+}
