@@ -1,7 +1,6 @@
 ---
 title: research
 layout: default
-permalink: /research/
 ---
 
 <!--# {{ page.title }}-->
